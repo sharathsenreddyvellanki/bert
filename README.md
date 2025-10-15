@@ -159,7 +159,7 @@ repository.
 **\*\*\*\*\* New November 3rd, 2018: Multilingual and Chinese models available
 \*\*\*\*\***
 
-We have made two new BERT models available:
+We have made two new BERT models available: hahahahahahahahhahahahah
 
 *   **[`BERT-Base, Multilingual`](https://storage.googleapis.com/bert_models/2018_11_03/multilingual_L-12_H-768_A-12.zip)
     (Not recommended, use `Multilingual Cased` instead)**: 102 languages,
